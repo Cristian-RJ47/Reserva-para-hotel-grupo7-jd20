@@ -9,3 +9,5 @@ public class SuiteFactory extends AbstractRoomsFactory {
         return new Suite(roomNumber);
     }
 }
+
+
